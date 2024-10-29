@@ -33,7 +33,7 @@ Installation
 Clone the repo
 
 
-git clone https://github.com/ansarhansi/task2(2).git
+git clone https://github.com/ansarhansi/task2 (2).git
 Navigate to the project directory
 
 cd task2(2)
