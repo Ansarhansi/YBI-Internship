@@ -9,7 +9,7 @@ data/ - Directory for datasets used in the project (ensure to add relevant datas
 
 models/ - Directory for saved machine learning models.
 
-scripts/ - Contains any additional Python scripts used for data processing or model evaluation.
+
 
 Key Features
 Data Cleaning and Preprocessing
@@ -33,10 +33,10 @@ Installation
 Clone the repo
 
 
-git clone https://github.com/ansarhansi/task1.git
+git clone https://github.com/ansarhansi/task2(2).git
 Navigate to the project directory
 
-cd task1
+cd task2(2)
 Install the necessary libraries
 
 pip install -r requirements.txt
